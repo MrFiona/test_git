@@ -1,0 +1,3 @@
+#test rebase master.txt file
+#test_rebase branch
+#fix rebase master.txt on branch test_branch
